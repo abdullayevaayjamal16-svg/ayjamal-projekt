@@ -1,2 +1,4 @@
 # ayjamal-projekt
-Mening birinchi git loyham
+mkdir git-merge-task
+cd git-merge-task
+git init -b master
